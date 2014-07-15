@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3217D434-006E-4E60-B033-7FDACACFD689</string>
+	<key>IDESourceControlProjectName</key>
+	<string>どのフレーズ使うッター</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>678B8060-6E9C-4CE0-9AD7-D1DE7942B473</key>
+		<string>ssh://github.com/muuto/phrase.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>どのフレーズ使うッター.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>678B8060-6E9C-4CE0-9AD7-D1DE7942B473</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/muuto/phrase.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>678B8060-6E9C-4CE0-9AD7-D1DE7942B473</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>678B8060-6E9C-4CE0-9AD7-D1DE7942B473</string>
+			<key>IDESourceControlWCCName</key>
+			<string>どのフレーズ使うッター</string>
+		</dict>
+	</array>
+</dict>
+</plist>

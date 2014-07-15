@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x3068;&#x3099;&#x306e;&#x30d5;&#x30ec;&#x30fc;&#x30b9;&#x3099;&#x4f7f;&#x3046;&#x30c3;&#x30bf;&#x30fc;/Serihu.h"
+            timestampString = "426901822.777103"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "@interface Serihu"
+            landmarkType = "2">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

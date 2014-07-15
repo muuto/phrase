@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <AudioToolbox/AudioToolbox.h>
+#import "Serihu.h"
 
 @interface ViewController : UIViewController
 
